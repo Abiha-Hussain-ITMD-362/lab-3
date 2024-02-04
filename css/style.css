@@ -1,15 +1,15 @@
 body {
   margin: 5%;
-  font-family: ;
+  font-family: 'Inter', sans-serif;
 }
 
 h1 {
-  font-family: ;
+  font-family: 'Geologica', sans-serif;
   font-size: 56px;
   text-align: center;
 }
 
-#input-email {
+#input-email input {
   border: none;
   background-color: grey;
   width: 95%;
@@ -19,7 +19,8 @@ h1 {
   
 }
 
-#input-submit {
+#input-submit input {
   background-color: #3de369;
   color: white;
+  text-align: center;
 }
