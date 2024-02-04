@@ -1,6 +1,7 @@
 body {
   margin: 5%;
   font-family: 'Inter', sans-serif;
+  font-size: 14px;
 }
 
 h1 {
@@ -11,12 +12,12 @@ h1 {
 
 #input-email input {
   border: none;
-  background-color: grey;
+  background-color: #f2f2f2;
   width: 95%;
 }
 
 #input-age-verification {
-  
+  color: #949494;
 }
 
 #input-submit input {
