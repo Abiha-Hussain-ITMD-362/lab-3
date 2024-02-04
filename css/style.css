@@ -1,1 +1,25 @@
+body {
+  margin: 5%;
+  font-family: ;
+}
 
+h1 {
+  font-family: ;
+  font-size: 56px;
+  text-align: center;
+}
+
+#input-email {
+  border: none;
+  background-color: grey;
+  width: 95%;
+}
+
+#input-age-verification {
+  
+}
+
+#input-submit {
+  background-color: #3de369;
+  color: white;
+}
