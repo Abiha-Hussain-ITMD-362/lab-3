@@ -2,6 +2,7 @@ body {
   margin: 5%;
   font-family: 'Inter', sans-serif;
   font-size: 14px;
+  line-height: 2;
 }
 
 h1 {
@@ -23,6 +24,9 @@ h1 {
 #input-submit input {
   background-color: #3de369;
   color: white;
+  font-family: 'Geologica', sans-serif;
+  font-size: 22px;
   text-align: center;
   width: 95%;
+  height: 100px;
 }
