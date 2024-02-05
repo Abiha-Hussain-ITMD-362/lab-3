@@ -37,3 +37,9 @@ h1 {
   height: 75px;
   border: none;
 }
+
+@media screen (min-width: 500px;){
+  h1 {
+  font-size: 30px;
+  }
+}
