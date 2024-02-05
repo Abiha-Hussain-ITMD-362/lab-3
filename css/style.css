@@ -31,8 +31,10 @@ h1 {
   outline: none;
 }
 
-#input-age-verification {
+#input-age-verification, #input-age-verification input {
   color: #949494;
+  position: relative;
+  display: block;
 }
 
 #submit {
