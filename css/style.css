@@ -67,6 +67,10 @@ h1 {
   #input-email input {
     height: 50px;
   }
+  #input-age-verification label {
+    margin-top: -17px;
+    margin-left: 20px;
+  }
 
   #submit {
     height: 60px;
