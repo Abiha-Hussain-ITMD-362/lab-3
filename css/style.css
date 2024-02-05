@@ -42,6 +42,8 @@ h1 {
 #input-age-verification input {
   position: relative;
   display: block;
+  border-radius: none;
+  font-size: 20px;
 }
 
 #submit {
