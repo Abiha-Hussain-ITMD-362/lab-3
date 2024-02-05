@@ -31,7 +31,7 @@ h1 {
   outline: none;
 }
 
-#input-age-verification {
+#input-age-verification label {
   color: #949494;
   margin-top: -1.5;
 }
