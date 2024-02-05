@@ -39,11 +39,13 @@ h1 {
   margin-left: 20px;
 }
 
-#input-age-verification input {
+#input-age-verification input[type="checkbox"] {
   position: relative;
   display: block;
   border-radius: none;
-  font-size: 20px;
+  accent-color: light-grey;
+  height: 20px;
+  width: 20px;
 }
 
 #submit {
