@@ -2,7 +2,7 @@ body {
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 5%;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif, tahoma;
   font-size: 18px;
   line-height: 1.5;
 }
@@ -14,7 +14,7 @@ p {
 }
 
 h1 {
-  font-family: 'Geologica', sans-serif;
+  font-family: 'Geologica', sans-serif, arial;
   font-size: 56px;
   text-align: center;
 }
@@ -52,7 +52,7 @@ h1 {
   background-color: #3de369;
   margin-top: 3%;
   color: white;
-  font-family: 'Geologica', sans-serif;
+  font-family: 'Geologica', sans-serif, arial;
   font-size: 22px;
   text-align: center;
   width: 100%;
